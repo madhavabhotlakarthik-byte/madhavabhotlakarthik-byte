@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<h1>Hey there! I'm Karthik 👋</h1>
+<h1> I'm Madhavabhotla Karthik </h1>
 <h3>Cyber Security Student · Web Developer · Hackathon Enthusiast</h3>
 
 <p>
@@ -18,11 +18,10 @@
 ```
 🎓  B.Tech Cyber Security @ DRK Institute of Science & Technology
 📍  Hyderabad, India
-🔭  Currently mastering: Java, DSA, React, Ethical Hacking
+🔭  Currently mastering: web development,Java, DSA,, Ethical Hacking
 🌱  Exploring: AI/ML, AWS Cloud, Full-Stack Development
 🏆  Passionate about: Hackathons, Open Source, Real-World Impact
-💬  Ask me about: Web Security, React, Problem Solving
-📫  Reach me at: [your-email@gmail.com]
+📫  Reach me at: [madhavabhotla.karthik@gmail.com]
 ⚡  Fun fact: I break things on purpose — it's called "security research" 😄
 ```
 
