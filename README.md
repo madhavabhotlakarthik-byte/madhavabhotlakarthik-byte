@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Karthik, a 3rd-year B.Tech student specializing in Cyber Security at DRK Institute of Science & Technology, Hyderabad.<br>I'm currently focused on Java, Data Structures & Algorithms (DSA), Web Development, and Cyber Security.<br> I enjoy building projects, solving problems, participating in hackathons, and exploring emerging technologies such as AI and cloud computing.<br>My goal is to strengthen my technical skills through hands-on development, contribute to meaningful projects, and secure opportunities that help me grow as a software engineer.<br>
+I'm Madhavabhotla Karthik, a 3rd-year B.Tech student specializing in Cyber Security at DRK Institute of Science & Technology, Hyderabad.<br>I'm currently focused on Java, Data Structures & Algorithms (DSA), Web Development, and Cyber Security.<br> I enjoy building projects, solving problems, participating in hackathons, and exploring emerging technologies such as AI and cloud computing.<br>My goal is to strengthen my technical skills through hands-on development, contribute to meaningful projects, and secure opportunities that help me grow as a software engineer.<br>
 
 
 ## 🌐 Socials:
